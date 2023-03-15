@@ -1,0 +1,18 @@
+
+@import "bootstrap/scss/bootstrap";
+
+.width-menu{
+  width: 150px !important;
+  height: 100% !important;
+}
+.no-border {
+  border-width: 0px;
+  border-color: red !important;
+}
+.input-obligatorio {
+  color: #ff0000 !important;
+}
+.text-error{
+  color: #ff0000 !important;
+font-size: 10PX;
+}
